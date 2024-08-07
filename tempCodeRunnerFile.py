@@ -1,0 +1,5 @@
+t.dot(30,"red")
+# t.teleport(50)
+# t.dot(30,"blue")
+# t.teleport(0,45)
+# t.dot(30,"green")
